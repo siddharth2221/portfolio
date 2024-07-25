@@ -73,4 +73,4 @@ Beyond my technical skills, I enjoy playing football, which keeps me active and 
 [Have a look at it](./birthdaywebsite.html)
 
 ## Contact Me
-[Contact Me On](./contact.html)
+[Contact Me On](Contact.html)
