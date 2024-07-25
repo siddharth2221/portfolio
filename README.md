@@ -53,18 +53,21 @@ Beyond my technical skills, I enjoy playing football, which keeps me active and 
 
 ### Movie Ranking Project
 ![Movie Ranking Project](./movie.png)
+
 **Description:** This was my very first project in my web development journey. It describes my favorite top 3 sports. The project seems quite simple but holds immense importance in my web development journey.  
 [Know more](./Movie ranking about.html.html)  
 [Have a look at it](./movieit.html)
 
 ### Path Linking Exercise
 ![Path Linking Exercise](./all animals.png)
+
 **Description:** This project was more of an exercise for me to get knowledge of linked paths and how to reach a file within a nested web of files.  
 [Know more](./About path finder.html)  
 [Have a look at it](./4.0 File Paths/Folder0/index.html)
 
 ### Birthday Invitation Card
 ![Birthday Invitation Card](./my birthday.png)
+
 **Description:** This project was a birthday invitation card for me. I made this because handwritten letters are too old-fashioned and it's time to make things digital.  
 [Know more](./birthday about me.html)  
 [Have a look at it](./birthdaywebsite.html)
