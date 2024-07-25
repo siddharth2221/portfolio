@@ -55,7 +55,7 @@ Beyond my technical skills, I enjoy playing football, which keeps me active and 
 ![Movie Ranking Project](./movie.png)
 
 **Description:** This was my very first project in my web development journey. It describes my favorite top 3 sports. The project seems quite simple but holds immense importance in my web development journey.  
-[Know more](./Movie ranking about.html.html)  
+[Know more](./Movie ranking about.html)  
 [Have a look at it](./movieit.html)
 
 ### Path Linking Exercise
